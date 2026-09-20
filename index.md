@@ -1,10 +1,6 @@
 # Datenschutzerklärung — StartWork
 
-Stand 14.09.2026 · Information nach Art. 13 DSGVO
-
-> **Noch zu vervollständigen:** Die ladungsfähige Anschrift fehlt. Sie ist nach
-> § 5 DDG Pflicht und wird ohnehin für den DSA-Händlerstatus bei Apple gebraucht,
-> sobald die App Geld kostet.
+Stand 20.09.2026 · Information nach Art. 13 DSGVO
 
 ## Der Kern in drei Sätzen
 
@@ -18,8 +14,16 @@ Daten verlassen dein Gerät nur an Ziele, die **du selbst bestimmst**.
 
 ```
 Philip Müller
-[Anschrift — vor der Einreichung bei Apple einzutragen]
+Theaterstraße 27
+09111 Chemnitz
+Deutschland
+
+E-Mail: info@iamnotadev.xyz
 ```
+
+Dieselben Angaben erscheinen nach der Digital-Services-Act-Verordnung als
+Händlerangaben auf der Produktseite im App Store. Das ist bei einer
+kostenpflichtigen App verpflichtend und nicht abwählbar.
 
 ## 2. Was auf dem Gerät gespeichert wird
 
