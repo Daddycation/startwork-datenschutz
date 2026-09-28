@@ -5,6 +5,8 @@ As of 28 September 2026 · Information under Art. 13 GDPR
 > This is a translation for convenience. The
 > [German version](https://daddycation.github.io/startwork-datenschutz/)
 > is the legally binding one.
+>
+> [Français](https://daddycation.github.io/startwork-datenschutz/fr/) · [Português](https://daddycation.github.io/startwork-datenschutz/pt/) · [Español](https://daddycation.github.io/startwork-datenschutz/es/)
 
 ## The core in three sentences
 

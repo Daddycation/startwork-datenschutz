@@ -1,6 +1,6 @@
 # StartWork help
 
-> [Deutsche Fassung](../support)
+> [Deutsch](../support) · [Français](../fr/support) · [Português](../pt/support) · [Español](../es/support)
 
 StartWork logs working time to Jira. The app runs on your device and talks
 only to **your own** Jira instance.
@@ -65,8 +65,8 @@ device. You can withdraw consent at any time under the gear icon.
 
 ### Which languages does the app speak?
 
-German and English. It follows your iPhone's language; under the gear icon
-you can choose explicitly.
+English, German, French, Portuguese and Spanish. It follows your iPhone's
+language; under the gear icon you can choose explicitly.
 
 ---
 

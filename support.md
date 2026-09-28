@@ -1,6 +1,6 @@
 # Hilfe zu StartWork
 
-> [English version](en/support)
+> [English](en/support) · [Français](fr/support) · [Português](pt/support) · [Español](es/support)
 
 StartWork bucht Arbeitszeit in Jira. Die App läuft auf deinem Gerät und
 spricht ausschließlich mit **deiner eigenen** Jira-Instanz.
@@ -67,6 +67,11 @@ Der Knopf schickt deinen Buchungskommentar an Anthropic und bekommt eine
 sachliche Formulierung zurück. Er ist ab Werk **aus** und verlangt zweierlei:
 einen eigenen Anthropic-Schlüssel und deine ausdrückliche Zustimmung. Ohne
 beides verlässt nichts das Gerät. Widerrufen kannst du jederzeit im Zahnrad.
+
+### Welche Sprachen spricht die App?
+
+Deutsch, Englisch, Französisch, Portugiesisch und Spanisch. Sie folgt der
+Sprache deines iPhones; im Zahnrad kannst du ausdrücklich eine wählen.
 
 ---
 

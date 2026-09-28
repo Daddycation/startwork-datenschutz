@@ -1,6 +1,6 @@
 # Datenschutzerklärung — StartWork
 
-> [English version](https://daddycation.github.io/startwork-datenschutz/en/)
+> [English](https://daddycation.github.io/startwork-datenschutz/en/) · [Français](https://daddycation.github.io/startwork-datenschutz/fr/) · [Português](https://daddycation.github.io/startwork-datenschutz/pt/) · [Español](https://daddycation.github.io/startwork-datenschutz/es/)
 
 Stand 20.09.2026 · Information nach Art. 13 DSGVO
 
